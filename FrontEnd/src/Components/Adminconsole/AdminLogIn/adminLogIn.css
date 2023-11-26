@@ -1,0 +1,43 @@
+
+.AdminLogInmain {
+background-image: url('../adminbg.png'); /* Adjust the path to your image file */
+ 
+}
+.Content {
+    
+    justify-content: center;
+    align-items: center;
+    height: 130px;
+    margin-top: 40px;
+    margin-left: 520px;
+    
+    
+  }
+
+  .Content form {
+    width: 50%;
+  }
+  
+  .Content input,
+  .Content button {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+ 
+
+  .Content p {
+  
+    font-size: 18px;
+    
+  }
+
+ 
+
+
+
+
+
+
+
+  
